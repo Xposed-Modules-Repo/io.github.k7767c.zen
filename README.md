@@ -37,7 +37,6 @@ debuggable / testOnly 与安装路径、分散校验点）。任何一项不通�
 
 <img src="assets/reward.png" width="260" alt="zen 赞赏码">
 
-## 链接
+## 反馈
 
-- 源码：https://github.com/k7767c/zen
-- 反馈：https://t.me/xiyouF4
+https://t.me/xiyouF4
