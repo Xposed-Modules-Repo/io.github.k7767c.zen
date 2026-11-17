@@ -1,4 +1,4 @@
-# 𝘇𝗲𝗻
+# zen
 
 红果免费漫剧 / 红果免费短剧 / PicACG 三应用增强模块（libxposed API 102）。
 
@@ -30,7 +30,7 @@
 
 模块不做付费、不设内购，全部功能免费。如果它替你省了时间，可以请我喝杯咖啡。
 
-<img src="assets/reward.png" width="260" alt="𝘇𝗲𝗻 赞赏码">
+<img src="assets/reward.png" width="260" alt="zen 赞赏码">
 
 ## 反馈
 
