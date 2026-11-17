@@ -1,4 +1,4 @@
-# Zen
+# zen
 
 红果免费漫剧 / 红果免费短剧 / PicACG 三应用增强模块（libxposed API 102）。
 
