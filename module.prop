@@ -1,0 +1,12 @@
+id=io.github.k7767c.zen
+name=zen
+version=v2.1.48
+versionCode=321
+author=k7767c
+description=红果免费漫剧 / 红果免费短剧 / PicACG 增强：去广告、画质解锁、手势与播放控制、设置面板入口图标。
+minApiVersion=102
+targetApiVersion=102
+staticScope=true
+exceptionMode=PROTECTIVE
+exception_mode=PROTECTIVE
+hot_reload=true
