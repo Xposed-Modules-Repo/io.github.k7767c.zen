@@ -1,9 +1,9 @@
 id=io.github.k7767c.zen
 name=zen
-version=v2.1.51
-versionCode=324
+version=v2.6.37
+versionCode=476
 author=k7767c
-description=红果免费漫剧 / 红果免费短剧 / PicACG 增强：去广告、画质解锁、手势与播放控制、设置面板入口图标。
+description=红果免费漫剧 / 红果免费短剧 / PicACG / 抖音 增强：去广告、画质与转发解锁、手势与播放控制、界面精简、软件 DPI、设置面板入口图标。
 minApiVersion=102
 targetApiVersion=102
 staticScope=true
